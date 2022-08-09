@@ -24,4 +24,6 @@
 
 ## Interests
 
-Primarily interested in MachineLearning(ML) applications.
+Primarily interested in MachineLearning(ML) applications especially in finance and markets.
+
+#END
